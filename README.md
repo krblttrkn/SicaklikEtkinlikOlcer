@@ -36,4 +36,4 @@ public class sicaklikEtkinlikOlcer {
 }
 ```
 ***
-<a href='https://app.patika.dev/krblttrkn'>pAtİkA linkim</a>
+<a href="https://academy.patika.dev/profile">pAtİkA linkim</a>
